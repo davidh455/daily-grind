@@ -141,7 +141,7 @@ switch(myDay){
             pic: "images/mocha.jpg",
             day: "Saturday",
             alt: "A pic of a Mocha",
-            color: "purple",
+            color: "red",
             desc: `I like me some Mocha`
 
         };
